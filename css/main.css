@@ -685,7 +685,7 @@ header {
 
 /* ============ S T A R T    F O O T E R ============= */
 footer {
-    background: linear-gradient(#00000062, #00000062), url("/imgs/textured-metal-background.jpg"), no-repeat;
+    background: linear-gradient(#00000062, #00000062), url("../imgs/textured-metal-background.jpg"), no-repeat;
     background-size: cover;
     width: 100%;
     box-shadow: 0px -1px 5px #0007;
